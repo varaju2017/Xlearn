@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.glearn.mobile" version="3.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
+        <widget id="com.glearn.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name>Glearn Mobile</name>
   <description>Official Glearn Mobile app</description>
   <author href="http://Gitam.edu" email="araju.vasupalli@gitam.edu">Raju/author>
   <content src="index.html"/>
