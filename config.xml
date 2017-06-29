@@ -16,7 +16,7 @@ Gandhi Institute of Technology and Management, popularly known as GITAM, was fou
     <author href="www.gitam.edu" email="araju.vasuapalli@gitam.edu">
         PhoneGap Team
     </author>
-
+ <content src="index.html"/>
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
